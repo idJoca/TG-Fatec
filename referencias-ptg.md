@@ -1,6 +1,6 @@
-# Referências para o PTG
+# Referências para o TG
 
-Esta é uma lista de referências para o meu PTG, no tema: **Soluções de desenvolvimento híbridas: Quais as vantagens e desvantagens quando aplicadas em um projeto?**
+Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenvolvimento híbridas: Quais as vantagens e desvantagens quando aplicadas em um projeto?**
 
 ## Acadêmcias
 
