@@ -2,9 +2,15 @@
 
 Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenvolvimento híbridas: Quais as vantagens e desvantagens quando aplicadas em um projeto?**
 
-## Acadêmcias
+## Acadêmicas
 
 1. [Detecting and Tracking Criminals in the Real World through an IoT-Based System](https://www.researchgate.net/publication/342771260_Detecting_and_Tracking_Criminals_in_the_Real_World_through_an_IoT-Based_System)
+
+    1. Resumo: É proposto um sistema IoT, onde smartphones são os dispositivos de coleta, para apoiar a detecção e rastreamento de criminosos. Tem como objetivo permitir a comunicação e colaboração entre os cidadãos e as Forças Policiais no processo de investigação criminal. Um app, feito em Ionic, é utilizado como ferramenta de relato de crimes.
+    2. Objetivo: Montar um sistema IoT, que visa melhorar a comunicação entre os cidadãos e as Forças Policiais, diminuindo o tempo de resposta das Forças Policiais. É centrado em smartphones e computação de ponta.
+    3. Método: Desenvolver um aplicativo híbrido em Ionic, capaz de coletar a localização, data e hora de crimes, relatados pelos próprios usuários. O funcionamento do sistema será avaliado através de simulações. Onde o papel de cidadãos e criminosos reais é substituído por cidadãos e criminosos virtuais.
+    4. Resultado: A usabilidade, na perspectiva do cidadão, foi avaliada por meio de uma pesquisa em que 30 participantes avaliaram 5 aspectos. Todos os aspectos avaliados alcançaram no mínimo o valor de 3,0 (Satisfatório) e uma média de 4,1 (ou seja, entre Bom e Excelente). Além disso, uma análise estatística, comparando o tempo de resposta das Forças Policiais, com e sem o auxílio da aplicação, mostrou que em média pelo menos 3 minutos podem ser economizados e no pior dos casos, 2 minutos ainda são ganhos.
+    5. Atingiu o objetivo: Tendo em vista que a intenção era montar um sistema capaz de reduzir o tempo de resposta das Forças Policiais, o projeto conseguiu atingir seus objetivos.
 
 2. [Smart Parking: IoT and Blockchain](https://www.researchgate.net/publication/337756549_Smart_Parking_IoT_and_Blockchain)
 
