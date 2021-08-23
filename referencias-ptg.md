@@ -14,6 +14,8 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 2. [Smart Parking: IoT and Blockchain](https://www.researchgate.net/publication/337756549_Smart_Parking_IoT_and_Blockchain)
 
+    1. Resumo: É proposto um sistema onde os usuários podem pagar por suas multas de estacionamento usando seus cartões de crédito em um aplicativo, feito em Ionic. Tem como objetivo aplicar computação distribuída e IoT no "grande problema" das cidades grandes, o estacionamento de veículos.
+
 3. [ESTUDO DO FRAMEWORK IONIC PARA O DESENVOLVIMENTO DE
 APLICATIVOS](https://painel.passofundo.ifsul.edu.br/uploads/arq/202104201556131308410706.pdf)
 
