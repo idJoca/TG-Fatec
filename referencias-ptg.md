@@ -30,6 +30,12 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 4. [HYBRID MOBILE APPLICATION BASED ON IONIC FRAMEWORK TECHNOLOGIES](https://www.researchgate.net/publication/322397904_HYBRID_MOBILE_APPLICATION_BASED_ON_IONIC_FRAMEWORK_TECHNOLOGIES)
 
+    1. Resumo: Os desenvolvedores não podem acessar e modificar códigos de aplicativos móveis que operam em outras plataformas, ou seja, incompatibilidades de plataforma nativa. Um aplicativo móvel híbrido foi projetado usando Ionic e o Leaflet. A mesma base de código para esses aplicativos promete uma abordagem simples, mas oportuna, para várias plataformas.
+    2. Objetivo: Analisar abordagens móveis nativas, web e híbridas para o desenvolvimento de aplicativos. Demonstrar também como aplicativos móveis híbridos podem ser construídos usando o Ionic.
+    3. Método: Desenvolver uma aplicação em Ionic, seguindo o padrão MVC e buildar a aplicação para Android, IOS e Windows.
+    4. Resultado: O estudo concluí que a abordagem híbrida para desenvolvimento de aplicativos mobile vale a pena, considerando a praticidade de se ter uma única base de código capaz de ser buildada para diversas plataformas.
+    5. Atingiu o objetivo: Sim, levando em conta que o objetivo era demonstrar a abordagem híbrida no desenvolvimento de aplicativos mobile, o estudo atingiu seu objetivo. 
+
 5. [Proposta de implementação de uma aplicação móvel para monitorização de transportes no Instituto Superior Politécnico Independente](https://www.academia.edu/41362842/TCC_sobre_desenvolvimento_mobile_h%C3%ADbrido)
 
 ## Mercado
