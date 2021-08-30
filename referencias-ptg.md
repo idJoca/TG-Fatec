@@ -38,6 +38,12 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 5. [Proposta de implementação de uma aplicação móvel para monitorização de transportes no Instituto Superior Politécnico Independente](https://www.academia.edu/41362842/TCC_sobre_desenvolvimento_mobile_h%C3%ADbrido)
 
+    1. Resumo: Com um mundo cada vez mais conectado, os smartphones estão em alta e são a tecnologia do momento. O mercado móvel está divido entre IOS e Android, mas ambos possui arquiteturas e principios diferentes entre si. O desenvolvimento híbrido, com o Ionic, pode aliviar as dores do desenvolvimento, por permitir o mesmo código para diversas plataformas. Tem como objetivo montar uma aplicação móvel para a monitorização do transporte público.
+    2. Objetivo: Desenvolver de uma aplicação móvel, com a finalidade de monitorizar a deslocação dos transportes do Instituto Superior Politécnico Independente de Lubango, na Angola.
+    3. Método: Utilizar o método de abordagem Hipotético-Dedutivo, para desenvolver a aplicação móvel, formulando a hipótese de que o estudo sirva de base para futuros trabalhos acerca do tema em questão.
+    4. Resultado: Dos inquéritos aplicados, verificou-se que o desenvolvimento de uma aplicação móvel para monitorização de transportes é muito necessário visto que facilitará e de que maneira na tomada de decisões.
+    5. Atingiu o objetivo: Sim, tendo em vista que o objetivo era montar uma aplicação capaz de monitorar o transporte e ajudar na tomada de decisões.
+
 ## Mercado
 
 1. [Burguer King](https://ionic.io/resources/articles/burger-king-design-system)
