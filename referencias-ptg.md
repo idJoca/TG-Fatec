@@ -64,11 +64,11 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 3. [Sanvello Mental Health App](https://ionic.io/resources/case-studies/sanvello)
 
-    1. Resumo:
-    2. Objetivo:
-    3. Método:
-    4. Resultado:
-    5. Atingiu o objetivo:
+    1. Resumo: Sanvello é um aplicativo móvel que utiliza conceitos de terapia cognitivo-comportamental para ajudar os usuários a controlarem o estresse, a ansiedade e a depressão. 
+    2. Objetivo: Desenvolver o aplicativo numa plataforma que permita a prototipação rápida de ideias, para agilizar a etapa de coleta de feedback dos usuários.
+    3. Método: Tendo em vista uma experiência prévia dos fundadores em desenvolvimento híbrido, Ionic foi utilizado para desenvolver o aplicativo.
+    4. Resultado: O aplicativo foi desenvolvido em apenas 3 meses. Funcionalidades complexas como, gravação de aúdio e renderização das ondas de som (waveform), foram implementadas rapidamente, graças ao Ionic.
+    5. Atingiu o objetivo: Sim, hoje o aplicativo conta com mais de 1 milhão de usuários cadastrados.
 
 4. [Airbus Helicopter](https://ionic.io/resources/case-studies/airbus-helicopter)
 
