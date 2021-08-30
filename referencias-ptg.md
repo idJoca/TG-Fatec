@@ -48,10 +48,40 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 1. [Burguer King](https://ionic.io/resources/articles/burger-king-design-system)
 
+    1. Resumo:
+    2. Objetivo:
+    3. Método:
+    4. Resultado:
+    5. Atingiu o objetivo:
+
 2. [86 400 Smart Bank](https://ionic.io/resources/case-studies/86400)
+
+    1. Resumo:
+    2. Objetivo:
+    3. Método:
+    4. Resultado:
+    5. Atingiu o objetivo:
 
 3. [Sanvello Mental Health App](https://ionic.io/resources/case-studies/sanvello)
 
+    1. Resumo:
+    2. Objetivo:
+    3. Método:
+    4. Resultado:
+    5. Atingiu o objetivo:
+
 4. [Airbus Helicopter](https://ionic.io/resources/case-studies/airbus-helicopter)
 
+    1. Resumo:
+    2. Objetivo:
+    3. Método:
+    4. Resultado:
+    5. Atingiu o objetivo:
+
 5. [Napa Group, LLC](https://ionic.io/resources/case-studies/napa-group-llc)
+
+    1. Resumo:
+    2. Objetivo:
+    3. Método:
+    4. Resultado:
+    5. Atingiu o objetivo:
