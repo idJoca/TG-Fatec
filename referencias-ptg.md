@@ -48,11 +48,11 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 1. [Burguer King](https://ionic.io/resources/articles/burger-king-design-system)
 
-    1. Resumo:
-    2. Objetivo:
-    3. Método:
-    4. Resultado:
-    5. Atingiu o objetivo:
+    1. Resumo: Burguer King possui uma marca bem definida, com componentes, como botões, menus e afins, e cores já definidos para o seu site Web.
+    2. Objetivo: Desenvolver uma aplicação móvel, mas sem perder a identidade de marca, definida por meio dos componentes montados para o site Web.
+    3. Método: Utilizar o Ionic, integrando os componentes Web no aplicativo.
+    4. Resultado: Uma aplicação que preserva a identidade de marca do Burguer King, pois os mesmos componentes do site Web foram utilizados nele.
+    5. Atingiu o objetivo: Sim, tendo em vista que o objetivo era desenvolver uma aplicação móvel que preservasse a identidade de marca do Burguer King.
 
 2. [86 400 Smart Bank](https://ionic.io/resources/case-studies/86400)
 
