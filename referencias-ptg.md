@@ -56,11 +56,11 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 2. [86 400 Smart Bank](https://ionic.io/resources/case-studies/86400)
 
-    1. Resumo:
-    2. Objetivo:
-    3. Método:
-    4. Resultado:
-    5. Atingiu o objetivo:
+    1. Resumo: 86 400 é um banco digital autraliano, que no seu começo precisou montar uma aplicação móvel em tempo recordo e com a mesma funcionalidade tanto para Android quanto para IOS. Ionic foi usado para suprir a necessidade.
+    2. Objetivo: Utilizar o Ionic para desenvolver uma aplicação móvel capaz de entregar a mesma experiência de uso para ambos os usuários de Android e IOS, em tempo recorde.
+    3. Método: O aplicativo foi desenvolvido com Ionic, e contou com o suporte de especialistas da equipe do Ionic Enterprise, um serviço focado em ajudar empresas no desenvolvimento em Ionic.
+    4. Resultado: Um aplicativo performático, de alta usabilidade, foi desenvolvido pelo Banco. Devido as facilidades que o Ionic oferece, o aplicativo é capaz de se "auto-atualizar", sem que a atualizaçào precise passar pelas lojas (Play Store e App Store).
+    5. Atingiu o objetivo: Sim, hoje o banco conta com mais de 225,000 contas ativas, que dependem do aplicativo para operarem.
 
 3. [Sanvello Mental Health App](https://ionic.io/resources/case-studies/sanvello)
 
