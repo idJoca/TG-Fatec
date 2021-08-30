@@ -72,11 +72,11 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 4. [Airbus Helicopter](https://ionic.io/resources/case-studies/airbus-helicopter)
 
-    1. Resumo:
-    2. Objetivo:
-    3. Método:
-    4. Resultado:
-    5. Atingiu o objetivo:
+    1. Resumo: A Airbus Helicopters, parte do Airbus Group, é a fabricante líder mundial de helicópteros. A missão das fábricas de gerenciamento de informações dentro da Airbus é trabalhar com finanças, RH, linhas de produção e montagem para desenvolver aplicativos móveis e web inovadores e centrados em dados para melhorar seus negócios.
+    2. Objetivo: Uma aplicação que permita melhorar a colaboração entre os stakeholders, com prototipação rápida e mantendo consistência entre plataformas.
+    3. Método: Protipação visual direto no aplicativo com o Creator, numa única base de código com o Ionic e integração com plugins de terceiros.
+    4. Resultado: Uma melhor colaboração entre os stakeholders, time-to-market 2x mais rápido dos aplicativos feitos em Ionic e aparência consistente entre plataformas.
+    5. Atingiu o objetivo: Sim, agora aplicações são prototipadas até 2x mais rápido graças ao uso do Ionic.
 
 5. [Napa Group, LLC](https://ionic.io/resources/case-studies/napa-group-llc)
 
