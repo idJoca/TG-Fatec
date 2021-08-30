@@ -80,8 +80,8 @@ Esta é uma lista de referências para o meu TG, no tema: **Soluções de desenv
 
 5. [Napa Group, LLC](https://ionic.io/resources/case-studies/napa-group-llc)
 
-    1. Resumo:
-    2. Objetivo:
-    3. Método:
-    4. Resultado:
-    5. Atingiu o objetivo:
+    1. Resumo: A Acker Auctions, parte da Acker Merrall & Condit, é a maior casa de leilões de vinhos do mundo, a primeira na Ásia e a primeira a ultrapassar US $ 100 milhões em receitas. O Napa Group, LLC, uma consultoria digital com sede em Manhattan, foi contratada para desenvolver uma aplicaçào de leilão, com design consistente em todas as plataformas. A Napa usou o Ionic Appflow para simplificar e acelerar o ciclo de vida do aplicativo: o desenvolvimento, teste, monitoramento e implantação do aplicativo de leilão semestral da Acker.
+    2. Objetivo: Desenvolver uma aplicativo de leilão para a Acker, com prazos para novas funcionalidades de duas semanas, com uma interface consistênte entre plataformas.
+    3. Método: Usar Ionic Appflow para obter uma iteração de ideias mais rápida, com um ambiente de desenvolvimento mais ágil e simplificado.
+    4. Resultado: Uma aplicaçào estável para leilões, mais engajamento, capacidade de adicionar mais funcionalidades rapidamente e um time de desenvolvimento menor.
+    5. Atingiu o objetivo: Sim, graças ao Ionic Appflow o app foi concluido em tempo recorde.
